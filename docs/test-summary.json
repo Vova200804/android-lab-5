@@ -1,0 +1,27 @@
+{
+  "author": "Солдатов Владимир Сергеевич",
+  "city": "Кемерово",
+  "date": "2026-11-06",
+  "device": "Android Emulator, Android 17, API 37",
+  "unit_tests": [
+    {
+      "module": "tiptime",
+      "suite": "com.example.tiptime.TipCalculatorTest",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0
+    }
+  ],
+  "instrumentation_tests": [
+    {
+      "module": "tiptime",
+      "tests": 2,
+      "failures": 0,
+      "errors": 0
+    }
+  ],
+  "totals": {
+    "unit_tests": 4,
+    "instrumentation_tests": 2
+  }
+}

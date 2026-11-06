@@ -1,0 +1,1 @@
+<resources><string name="title">Расчёт чаевых</string><string name="subtitle">Укажите сумму счёта и процент чаевых</string><string name="bill">Сумма счёта</string><string name="percent">Процент чаевых</string><string name="round">Округлить чаевые вверх</string><string name="result">Чаевые: %1$s</string></resources>
